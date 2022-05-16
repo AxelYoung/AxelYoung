@@ -109,24 +109,21 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
       </p>
         <p>A PS1-style first-person horror game concept</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Green Means Go</h3>
+              <td width="50%" valign="top">
+      <h3 align="center">B-W</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/GreenMeansGo">
-          <img display="block" margin:"0 auto" src="img/GreenMeansGo.png" width="25%" alt="GreenMeansGo"/>
+        <a target="_blank" href="https://github.com/AxelYoung/B-W">
+            <img src="img/B-W.gif" width="100%" alt="B-W"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/GreenMeansGo" target="_blank">
+  <a href="https://github.com/AxelYoung/B-W" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.AxelYoung.GreenMeansGo" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=Release&color=d4ac5e&style=plastic&logo=unity&logo-color=white"/>
-  </a>
       </p>
-        <p>A simple mobile game made and published in 2 days</p>
-    </td>
+        <p>A 2D action platformer with combat and puzzle elements</p>
+      </td>
   </tr>
       <tr>
         <td width="50%" valign="top">
@@ -225,20 +222,23 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
     </td>
   </tr>
             <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">B-W</h3>
+<td width="50%" valign="top">
+      <h3 align="center">Green Means Go</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/B-W">
-            <img src="img/B-W.gif" width="100%" alt="B-W"/>
+        <a target="_blank" href="https://github.com/AxelYoung/GreenMeansGo">
+          <img display="block" margin:"0 auto" src="img/GreenMeansGo.png" width="25%" alt="GreenMeansGo"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/B-W" target="_blank">
+  <a href="https://github.com/AxelYoung/GreenMeansGo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.AxelYoung.GreenMeansGo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Release&color=d4ac5e&style=plastic&logo=unity&logo-color=white"/>
+  </a>
       </p>
-        <p>A 2D action platformer with combat and puzzle elements</p>
+        <p>A simple mobile game made and published in 2 days</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Dungeon</h3>
