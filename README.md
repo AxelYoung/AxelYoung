@@ -110,10 +110,10 @@ I enjoy working on all kinds of games but am currently working on [Astrala](http
         <p>A PS1-style first-person horror game concept</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">DrawConway</h3>
+      <h3 align="center">Green Means Go</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/DrawConway">
-          <img src="img/DrawConway.gif" width="100%" alt="DrawConway"/>
+        <a target="_blank" href="https://github.com/AxelYoung/GreenMeansGo">
+          <img src="img/GreenMeansGo.gif" width="100%" alt="GreenMeansGo"/>
         </a>
         <br />
         <p align="center">
@@ -125,7 +125,7 @@ I enjoy working on all kinds of games but am currently working on [Astrala](http
     <img src="https://img.shields.io/static/v1?label=|&message=Release&color=d4ac5e&style=plastic&logo=unity&logo-color=white"/>
   </a>
       </p>
-        <p>A cellular automata drawing website</p>
+        <p>A simple mobile game made and published in 2 days</p>
     </td>
   </tr>
 </table>
