@@ -113,7 +113,7 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
       <h3 align="center">Green Means Go</h3>
         <br />
         <a target="_blank" href="https://github.com/AxelYoung/GreenMeansGo">
-          <img src="img/GreenMeansGo.gif" width="100%" alt="GreenMeansGo"/>
+          <img src="img/GreenMeansGo.png" width="100%" alt="GreenMeansGo"/>
         </a>
         <br />
         <p align="center">
