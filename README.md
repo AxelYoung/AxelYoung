@@ -192,4 +192,36 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>Easily customizable procedural hexagonal terrain meant for a isometric viewpoint</p>
     </td>
   </tr>
+          <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">Tanks</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/Tanks">
+            <img src="img/Tanks.gif" width="100%" alt="Tanks"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/Tanks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>A silly concept Tank game where you move by propelling yourself with your own bullets</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">HexTerrain</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/HexTerrain">
+          <img src="img/HexTerrain.gif" alt="HexTerrain"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/HexTerrain" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Easily customizable procedural hexagonal terrain meant for a isometric viewpoint</p>
+    </td>
+  </tr>
 </table>
