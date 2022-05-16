@@ -241,19 +241,19 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>A 2D action platformer with combat and puzzle elements</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hooked</h3>
+      <h3 align="center">Dungeon</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/Hooked">
-          <img src="img/Hooked.gif" alt="Hooked"/>
+        <a target="_blank" href="https://github.com/AxelYoung/Dungeon">
+          <img src="img/Dungeon.gif" alt="Dungeon"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/Hooked" target="_blank">
+  <a href="https://github.com/AxelYoung/Dungeon" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Simple endless one tap mobile game concept</p>
+        <p>A one-tap mobile game concept with enemies, dodging, and attacking</p>
     </td>
   </tr>
 </table>
