@@ -174,7 +174,7 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <pA simple player controller used to teach animations and game feel</p>
+        <p>A simple player controller used to teach animations and game feel</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Dialogue</h3>
