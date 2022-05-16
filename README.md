@@ -118,10 +118,10 @@ I enjoy working on all kinds of games but am currently working on [Astrala](http
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/DrawConway" target="_blank">
+  <a href="https://github.com/AxelYoung/GreenMeansGo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://axelyoung.github.io/DrawConway/" target="_blank">
+  <a href="https://play.google.com/store/apps/details?id=com.AxelYoung.GreenMeansGo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=Release&color=d4ac5e&style=plastic&logo=unity&logo-color=white"/>
   </a>
       </p>
