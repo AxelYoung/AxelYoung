@@ -2,7 +2,7 @@
 
 I'm a Unity C# Gameplay Programmer and am currently looking for full-time work!
 
-I enjoy working on all kinds of games but am currently working on [Astrala](https://github.com/AxelYoung/Astrala), a procedurally generated survival adventure game.
+I enjoy working on all kinds of games, if you have any questions feel free to contact me!
 
 <h1 align="center">Connect</h1>
 
