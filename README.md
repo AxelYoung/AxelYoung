@@ -78,7 +78,7 @@ I enjoy working on all kinds of games but am currently working on [Astrala](http
       <h3 align="center">DrawConway</h3>
         <br />
         <a target="_blank" href="https://github.com/AxelYoung/DrawConway">
-          <img src="images/gif3.gif" width="100%" alt="DrawConway"/>
+          <img src="img/DrawConway.gif" width="100%" alt="DrawConway"/>
         </a>
         <br />
         <p align="center">
