@@ -160,4 +160,36 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>An attempt at making a dynamic dialogue system with easy to add animations</p>
     </td>
   </tr>
+        <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">Platformer Controller</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/PlatformerController">
+            <img src="img/PlatformerController.gif" width="100%" alt="PlatformerController"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/PlatformerController" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <pA simple player controller used to teach animations and game feel</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Dialogue</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/Dialogue">
+          <img src="img/Dialogue.gif" alt="Dialogue"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/Dialogue" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>An attempt at making a dynamic dialogue system with easy to add animations</p>
+    </td>
+  </tr>
 </table>
