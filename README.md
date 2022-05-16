@@ -148,7 +148,7 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
       <h3 align="center">Dialogue</h3>
         <br />
         <a target="_blank" href="https://github.com/AxelYoung/Dialogue">
-          <img display="block" margin:"0 auto" src="img/Dialogue.gif" width="25%" alt="Dialogue"/>
+          <img src="img/Dialogue.gif" alt="Dialogue"/>
         </a>
         <br />
         <p align="center">
