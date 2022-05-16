@@ -209,19 +209,19 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>A silly concept Tank game where you move by propelling yourself with your own bullets</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">HexTerrain</h3>
+      <h3 align="center">Hooked</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/HexTerrain">
-          <img src="img/HexTerrain.gif" alt="HexTerrain"/>
+        <a target="_blank" href="https://github.com/AxelYoung/Hooked">
+          <img src="img/Hooked.gif" alt="Hooked"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/HexTerrain" target="_blank">
+  <a href="https://github.com/AxelYoung/Hooked" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>Easily customizable procedural hexagonal terrain meant for a isometric viewpoint</p>
+        <p>Simple endless one tap mobile game concept</p>
     </td>
   </tr>
 </table>
