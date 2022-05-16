@@ -224,4 +224,36 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>Simple endless one tap mobile game concept</p>
     </td>
   </tr>
+            <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">B-W</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/B-W">
+            <img src="img/B-W.gif" width="100%" alt="B-W"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/B-W" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>A 2D action platformer with combat and puzzle elements</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hooked</h3>
+        <br />
+        <a target="_blank" href="https://github.com/AxelYoung/Hooked">
+          <img src="img/Hooked.gif" alt="Hooked"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/AxelYoung/Hooked" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+      </p>
+        <p>Simple endless one tap mobile game concept</p>
+    </td>
+  </tr>
 </table>
