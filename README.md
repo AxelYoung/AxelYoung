@@ -177,19 +177,19 @@ I enjoy working on all kinds of games, if you have any questions feel free to co
         <p>A simple player controller used to teach animations and game feel</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Dialogue</h3>
+      <h3 align="center">HexTerrain</h3>
         <br />
-        <a target="_blank" href="https://github.com/AxelYoung/Dialogue">
-          <img src="img/Dialogue.gif" alt="Dialogue"/>
+        <a target="_blank" href="https://github.com/AxelYoung/HexTerrain">
+          <img src="img/HexTerrain.gif" alt="HexTerrain"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/AxelYoung/Dialogue" target="_blank">
+  <a href="https://github.com/AxelYoung/HexTerrain" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=SOURCE&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p>An attempt at making a dynamic dialogue system with easy to add animations</p>
+        <p>Easily customizable procedural hexagonal terrain meant for a isometric viewpoint</p>
     </td>
   </tr>
 </table>
