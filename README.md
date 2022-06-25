@@ -1,6 +1,6 @@
 ### Hi there, I'm Axel 👋🏻
 
-I'm a Unity C# Gameplay Programmer and am currently looking for full-time work!
+I work on a lot of different things, but predominantly spend my time in Unity.
 
 I enjoy working on all kinds of games, if you have any questions feel free to contact me!
 
