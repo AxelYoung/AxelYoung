@@ -1,9 +1,8 @@
 ### Hi there, I'm Axel 👋🏻
 
-• I make games 🎮
-https://twitter.com/madebyaxelyoung
-• Programmer ⌨️ https://github.com/axelyoung
-• Currently working on: Lots of things!
+• I make games 🎮<br>
+• Programmer ⌨️ <br>
+• Currently working on: Lots of things!<br>
 • (any/all)
 
 <h1 align="center">Connect</h1>
