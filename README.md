@@ -1,8 +1,10 @@
 ### Hi there, I'm Axel 👋🏻
 
-I work on a lot of different things, but predominantly spend my time in Unity.
-
-I enjoy working on all kinds of games, if you have any questions feel free to contact me!
+• I make games 🎮
+https://twitter.com/madebyaxelyoung
+• Programmer ⌨️ https://github.com/axelyoung
+• Currently working on: Lots of things!
+• (any/all)
 
 <h1 align="center">Connect</h1>
 
