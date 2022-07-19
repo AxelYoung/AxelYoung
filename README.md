@@ -14,6 +14,9 @@
   <a href="https://discord.com/users/709539807197396993" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DISCORD&color=5865F2&style=plastic&logo=discord&logo-color=white"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCAGOmjBvDkh5s8i1OF13Whg" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=YOUTUBE&color=FF0000&style=plastic&logo=youtube&logo-color=white"/>
+  </a>
 </p>
 
 <h1 align="center">Projects</h1>
