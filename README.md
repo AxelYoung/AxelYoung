@@ -11,9 +11,6 @@
   <a href="https://twitter.com/madebyaxelyoung" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=1DA1F2&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/axel-young-4a362a23a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=0072b1&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
   <a href="https://discord.com/users/709539807197396993" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=DISCORD&color=5865F2&style=plastic&logo=discord&logo-color=white"/>
   </a>
